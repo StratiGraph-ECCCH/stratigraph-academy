@@ -43,6 +43,16 @@ exclude_patterns = [
 
 html_theme = 'sphinx_rtd_theme'
 
+# Il marchio, vendorizzato da `stratigraph-brand` con il suo
+# `docs-theme/sync-brand-docs.sh`, come lo vendorizzano le applicazioni: un
+# manuale letto in trincea non ha una CDN. Chiaro e scuro seguono
+# l'impostazione di sistema di chi legge; i contrasti sono misurati nel
+# marchio. Per cambiare un colore si cambia lì, e si ridà il sync.
+html_css_files = [
+    'brand/stratigraph-theme.css',
+    'brand/sphinx-rtd-bridge.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
