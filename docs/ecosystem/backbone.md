@@ -55,4 +55,6 @@ worth learning once rather than eight times.
 Over these eight steps lie the five working phases of an investigation, 0 to 4, which are
 how the Academy's path is organised: a phase is a module to pass, and it borrows the
 competence nodes it needs. The mapping between the phases and the steps comes from the
-drawings used in teaching, and is being written with them rather than invented here.
+drawings used in teaching, and is being written with them rather than invented here:
+[a day, in eight pictures](a-day-in-eight-pictures.md) shows the same cycle from the side
+of the work, and says which phase each moment belongs to.
