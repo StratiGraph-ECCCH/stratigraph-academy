@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'StratiGraph Server'
+project = 'StratiGraph Manual'
 copyright = '2026, Emanuel Demetrescu (CNR-ISPC) and the StratiGraph consortium'
 author = 'Emanuel Demetrescu'
 
@@ -14,7 +14,14 @@ version = '1.6.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.intersphinx',
+    # the pages written since this became the ecosystem manual are markdown,
+    # like the rest of the ecosystem's documentation
+    'myst_parser',
 ]
+
+source_suffix = {'.rst': 'restructuredtext', '.md': 'markdown'}
+myst_enable_extensions = ['deflist', 'colon_fence', 'fieldlist', 'substitution']
+myst_heading_anchors = 3
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
