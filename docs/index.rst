@@ -39,4 +39,5 @@ The Academy teaches the craft with the tools; it cites the manuals and never cop
 
    introduction
    ecosystem/map
+   ecosystem/backbone
    elsewhere
