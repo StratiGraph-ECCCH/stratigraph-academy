@@ -73,9 +73,10 @@ to the unit rather than kept in a parallel archive of its own.
 ```
 
 The model arrives while the trench is still open, and somebody **accepts it into the
-study**: that acceptance is the gesture, not the rendering. Which phase this picture
-belongs to is the one thing still to settle — it has a foot in measuring and a foot in
-the work of the study.
+study**: that acceptance is the gesture, not the rendering. The picture has a foot in the
+work of the study, and it stays in phase 2 all the same — because what is being accepted
+is a measurement, and accepting it is the last act of measuring rather than the first act
+of working together.
 
 ## 3 · Evening: the data moves
 
@@ -119,15 +120,15 @@ is answered by the same graph that was dictated into a phone in the trench.
 ## How the pictures map onto the phases
 
 The headings above carry the **working phase** each picture belongs to, 0 to 4. Two
-phases have two pictures, because they have two distinct moments; the fifth picture, the
-edge of the excavation, is the one still to be placed, and it is marked as phase 2 here
-provisionally.
+phases have two pictures, because they have two distinct moments. The edge of the
+excavation sat between two phases for a while and belongs to phase 2, confirmed on
+19 November 2026 by the person who uses the drawings in class.
 
 | Phase | Pictures |
 | --- | --- |
 | 0 · preparing | Preparation |
 | 1 · recording on site | Morning on site · In the trench |
-| 2 · measuring and modelling | Capturing in 3D · The edge of the excavation *(to confirm)* |
+| 2 · measuring and modelling | Capturing in 3D · The edge of the excavation |
 | 3 · moving and working together | Evening: the data moves · The collaborative cloud |
 | 4 · disseminating | Dissemination |
 
