@@ -1,41 +1,41 @@
-The StratiGraph manual
-======================
+The StratiGraph Academy
+=======================
 
 StratiGraph is a set of tools for reading, recording and arguing archaeological
-stratigraphy, and for keeping that reading alive as a graph other people and other
-machines can use.
+stratigraphy. The Academy is where you learn to work with them — the whole pipeline, from
+the edge of a trench to a published study, including the tools the project's partners
+bring.
 
-This manual is written for the person who uses those tools: an archaeologist at the edge
-of a trench, a researcher who opens a room on a node, a colleague invited to read someone
-else's study. It explains **how things work**.
+It is being built (first pages: November 2026). What follows is its shape, said plainly so
+that nobody mistakes a plan for a page that exists.
 
-Each tool keeps its own manual beside its code, with a part for whoever works with it and
-a part for whoever builds or installs it. Since 19 November 2026 that is where the node
-and the field are told: working in a room, people, profiles and roles, what is on the
-node, the REST door of a room and running a node are in the
-`manual of StratiGraph Server <https://github.com/StratiGraph-ECCCH/stratigraph-server/tree/main/docs>`_;
-the field node is in the
-`manual of StratiField <https://github.com/StratiGraph-ECCCH/stratigraph-stratifield/tree/main/docs>`_.
+Two layers, and not one
+-----------------------
 
-.. note::
-   StratiGraph is a Horizon Europe project, *StratiGraph — Knowledge Graphs for
-   Stratigraphy* (2025–2029).
+**Competence nodes** are the atoms: one thing, explained once, for anyone who meets it —
+what a level of detail is, what a proxy is, what signing means. A node does not belong to
+a phase; it belongs to the knowledge, and the phases borrow it. Where an atom is already
+explained well somewhere — in a tool's manual, in the Extended Matrix method — the Academy
+points at it instead of writing it again.
+
+**The five working phases, 0 to 4**, are the processes: the real sequence of an
+investigation, reusing the atoms in order. In the path they are the modules to pass: you
+go in, you do the work with the tools, and you show you have done it.
 
 What is deliberately elsewhere
 ------------------------------
 
-**EMStudio** and **EM Tools** keep their own manuals, in their own repositories: they are
-Extended Matrix tools, with their own identity, and flattening them under StratiGraph
-would say something untrue about what they are.
+Each tool keeps its own manual beside its code, with a part for whoever works with it and
+a part for whoever builds or installs it: the node and the catalogue in
+``stratigraph-server``, the field assistant in ``stratigraph-stratifield``. EMStudio and
+EM Tools keep theirs, and their Extended Matrix identity. The **method** — how a
+stratigraphic reading is argued — is taught by EM Academy.
 
-**Courses** belong to the StratiGraph Academy, which covers the whole toolset, partners'
-tools included; the **Extended Matrix method** is taught by EM Academy. This manual cites
-them and never copies them: a sentence lives in one place only. The last page says where
-each thing is.
+The Academy teaches the craft with the tools; it cites the manuals and never copies them.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: The ecosystem
 
    introduction
    ecosystem/map

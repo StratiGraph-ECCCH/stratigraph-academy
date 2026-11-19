@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'StratiGraph Manual'
+project = 'StratiGraph Academy'
 copyright = '2026, Emanuel Demetrescu (CNR-ISPC) and the StratiGraph consortium'
 author = 'Emanuel Demetrescu'
 
