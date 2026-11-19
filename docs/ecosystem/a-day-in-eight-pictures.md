@@ -133,7 +133,10 @@ provisionally.
 
 ---
 
-*The drawings come from the StratiGraph presentation of 5 November 2026 (CNR-ISPC,
-CRUI–MiC, Rende), where the cycle was shown under the title «ciclo di raccolta e misura
-del dato». They are reproduced here at the size a page needs; the credit line and the
-licence are being settled with their author and will be written in this place.*
+*Drawings by **Emanuel Demetrescu** (CNR-ISPC) for the StratiGraph project, made with
+the help of Gemini 3, and first shown on 5 November 2026 at the CRUI–MiC meeting in
+Rende under the title «ciclo di raccolta e misura del dato». Released under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them, with that credit.
+That a generative model took part in drawing them is written here because the project
+says so wherever it is true — see the
+[AI usage policy](https://www.extendedmatrix.org/ai-usage/).*
