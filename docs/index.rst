@@ -33,6 +33,17 @@ stratigraphic reading is argued — is taught by EM Academy.
 
 The Academy teaches the craft with the tools; it cites the manuals and never copies them.
 
+Where this comes from
+---------------------
+
+StratiGraph — *Knowledge Graphs for Stratigraphy* — is a Horizon Europe Innovation Action
+(grant agreement 101232855, 2025-2029), coordinated by CNR-ISPC, and its tools are built to
+join the European Collaborative Cloud for Cultural Heritage. The Academy is the teaching
+side of that work: the manuals say how each tool behaves, and this path says what the craft
+asks of the person using them. The project, its partners and its case studies are at
+`stratigraph-eccch.eu <https://stratigraph-eccch.eu>`_; the manuals are at
+`docs.stratigraph-eccch.eu <https://docs.stratigraph-eccch.eu>`_.
+
 .. toctree::
    :maxdepth: 2
    :caption: The ecosystem
